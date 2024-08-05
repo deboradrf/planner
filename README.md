@@ -19,6 +19,3 @@ Projeto desenvolvido durante o NLW Journey - Fullstack da Rocketseat, que simula
 ## 📁 Acesso ao projeto
 Hospedado no Netlify <br>
 Link: https://planner-deboradrf.netlify.app
-
-
-![image](https://github.com/user-attachments/assets/b16268d1-d669-45c2-b42d-1d5baab1ce07)
