@@ -17,5 +17,4 @@ Projeto desenvolvido durante o NLW Journey - Fullstack da Rocketseat, que simula
 - ``JavaScript``
 
 ## 📁 Acesso ao projeto
-Hospedado no Netlify <br>
-Link: https://planner-deboradrf.netlify.app
+Hospedado no Netlify `https://planner-deboradrf.netlify.app`
