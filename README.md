@@ -11,10 +11,10 @@ Projeto desenvolvido durante o NLW Journey - Fullstack da Rocketseat, que simula
 <img src="https://github.com/user-attachments/assets/ea6f8521-d9f3-4c13-815f-b975a07d9235">
 
 ### ✔️ Tecnologias utilizadas
-- ``Visual Studio Code``
-- ``HTML``
-- ``CSS``
-- ``JavaScript``
+- Visual Studio Code
+- HTML
+- CSS
+- JavaScript
 
 ### 📁 Acesso ao projeto
 Hospedado no Netlify `https://planner-deboradrf.netlify.app`
